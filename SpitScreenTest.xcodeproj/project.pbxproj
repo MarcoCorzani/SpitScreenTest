@@ -347,6 +347,7 @@
 				INFOPLIST_FILE = SpitScreenTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -357,6 +358,7 @@
 				INFOPLIST_FILE = SpitScreenTest/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -413,6 +415,7 @@
 				A9FF116A1A2BC29A007ED013 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A9FF116B1A2BC29A007ED013 /* Build configuration list for PBXNativeTarget "SpitScreenTestTests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +424,7 @@
 				A9FF116D1A2BC29A007ED013 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
